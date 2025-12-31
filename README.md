@@ -2,6 +2,10 @@
 
 在 macOS Finder 工具栏添加一个按钮，点击后在 **Terminal** 中打开当前目录（优先使用 Finder 选中项，其次使用当前窗口目录）。
 
+## 截图
+
+![OpenInTerminal 使用示例](screenshots/Screenshot_2025-12-31_16-40-05.png)
+
 ## 功能
 
 - Finder 选中**文件夹**：在 Terminal 打开该文件夹
