@@ -1,0 +1,8 @@
+# IDE
+.vscode
+
+# Built
+dist
+
+# MacOS
+.DS_Store
